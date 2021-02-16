@@ -19,5 +19,9 @@
 
 ## How to contribute
 
+### Join our quarterly Zoom calls
+
+Please request to join our mailing list through which Zoom credentials are provided: [https://groups.google.com/g/floracommons-usergroup](https://groups.google.com/g/floracommons-usergroup)
+
 ### Please post ideas, discussion items, issues etc. on [the issue tracker](https://github.com/floracommons/usergroup/issues)
 
