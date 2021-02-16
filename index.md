@@ -15,6 +15,7 @@
 
 * [Demo system mockups](https://www.figma.com/proto/akR6m62TSyH9LuvC2QE9Ha/CFC-001)
 * Demo system
+* [Our list of data sources to integrate (a work in progress)](https://docs.google.com/spreadsheets/d/1fhvN2-OqpIc0msyTvYAC578dicKHR6i2BWhiS6eQgMQ/edit?usp=sharing)
 
 ## How to contribute
 
