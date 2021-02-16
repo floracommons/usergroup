@@ -13,10 +13,10 @@
 
 ## Important links
 
-* Demo system mockups: https://www.figma.com/proto/akR6m62TSyH9LuvC2QE9Ha/CFC-001
-* Demo system: 
+* [Demo system mockups](https://www.figma.com/proto/akR6m62TSyH9LuvC2QE9Ha/CFC-001)
+* Demo system
 
 ## How to contribute
 
-### Please post ideas, discussion items, issues etc. on the issue tracker
+### Please post ideas, discussion items, issues etc. on [the issue tracker](https://github.com/floracommons/usergroup/issues)
 
