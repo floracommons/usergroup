@@ -1,5 +1,13 @@
 # Welcome to the Canadian Flora Commons user group
 
+James Macklin’s group at Agriculture and Agri-Food Canada is developing an online flora of the plants of Canada by integrating existing Canadian flora resources and enhancing content via a trait data query tool. We envision the online flora as a community space for discussion and collaboration.
+ 
+To realize our vision, we need help from our intended audience! Would you be interested in joining quarterly Zoom calls to see our progress and provide feedback? Please join us!
+
+We know that for this resource (we’ve called it the “Canadian Flora Commons”) to be useful, we need continued feedback and engagement from our intended users.
+
+Join us at our user group meetings!
+
 ## Meetings
 
 ### Meeting dates
