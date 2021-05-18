@@ -16,7 +16,7 @@ Join us at our user group meetings!
 | --- | --- |
 | Tuesday, February 16th at 1 pm ET | [Google Slides](https://docs.google.com/presentation/d/1_6gWA4xm5N8OVhIU8G0gMQyL-dXRqXmYgUWlMQ0ICNc/edit?usp=sharing) |
 | Tuesday, May 18th at 1 pm ET | [Google Slides](https://docs.google.com/presentation/d/1ttVYeV1lEz5ZsynyzE542NCMcKWOglTGwZ9M30gi9sg/edit?usp=sharing), [Google Doc used in breakout rooms](https://docs.google.com/document/d/18PLb4ERWJS-ApNiqN0J7j82nSM-loxl7-qBeqB0mWus/edit?usp=sharing) |
-| Tuesday, August 17th at 1 pm ET | |
+| Tuesday, September 14th at 1 pm ET | |
 | Tuesday, November 16th at 1 pm ET | |
 
 ## Important links
